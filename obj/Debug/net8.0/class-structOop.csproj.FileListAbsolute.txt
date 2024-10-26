@@ -1,0 +1,14 @@
+C:\Users\shawn\source\repos\class-structOop\bin\Debug\net8.0\class-structOop.exe
+C:\Users\shawn\source\repos\class-structOop\bin\Debug\net8.0\class-structOop.deps.json
+C:\Users\shawn\source\repos\class-structOop\bin\Debug\net8.0\class-structOop.runtimeconfig.json
+C:\Users\shawn\source\repos\class-structOop\bin\Debug\net8.0\class-structOop.dll
+C:\Users\shawn\source\repos\class-structOop\bin\Debug\net8.0\class-structOop.pdb
+C:\Users\shawn\source\repos\class-structOop\obj\Debug\net8.0\class-structOop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawn\source\repos\class-structOop\obj\Debug\net8.0\class-structOop.AssemblyInfoInputs.cache
+C:\Users\shawn\source\repos\class-structOop\obj\Debug\net8.0\class-structOop.AssemblyInfo.cs
+C:\Users\shawn\source\repos\class-structOop\obj\Debug\net8.0\class-structOop.csproj.CoreCompileInputs.cache
+C:\Users\shawn\source\repos\class-structOop\obj\Debug\net8.0\class-structOop.dll
+C:\Users\shawn\source\repos\class-structOop\obj\Debug\net8.0\refint\class-structOop.dll
+C:\Users\shawn\source\repos\class-structOop\obj\Debug\net8.0\class-structOop.pdb
+C:\Users\shawn\source\repos\class-structOop\obj\Debug\net8.0\class-structOop.genruntimeconfig.cache
+C:\Users\shawn\source\repos\class-structOop\obj\Debug\net8.0\ref\class-structOop.dll
